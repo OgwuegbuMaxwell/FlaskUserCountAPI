@@ -46,3 +46,10 @@ Returns a simple greeting message.
 4. Commit your changes (`git commit -am 'Add some fooBar'`).
 5. Push to the branch (`git push origin feature/fooBar`).
 6. Create a new Pull Request.
+
+
+![img1](https://github.com/OgwuegbuMaxwell/FlaskUserCountAPI/assets/53094485/25cfdb25-60cc-4728-9acd-309238467f25)
+
+
+![img2](https://github.com/OgwuegbuMaxwell/FlaskUserCountAPI/assets/53094485/cfb55e58-6d14-4cbc-aa23-250251743106)
+
