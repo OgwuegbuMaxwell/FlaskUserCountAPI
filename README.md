@@ -3,23 +3,6 @@
 ## Overview
 FlaskUserCountAPI is a simple Flask application designed to track the number of users visiting a specific endpoint. The application utilizes a MongoDB database to persist the count of user visits.
 
-## Application Structure
-
-
-FlaskUserCountAPI
-│
-├── db
-│ └── Dockerfile
-├── env
-├── web
-│ ├── app.py
-│ ├── Dockerfile
-│ └── requirements.txt
-├── docker-compose.yml
-└── requirements.txt
-
-
-
 
 ## Features
 - **User Visit Count:** Tracks how many times the `/hello` endpoint is visited and increments a count stored in MongoDB.
